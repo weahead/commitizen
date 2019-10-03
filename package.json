@@ -19,9 +19,12 @@
     "@commitlint/config-conventional": "8.2.0",
     "@commitlint/prompt-cli": "8.2.0",
     "@weahead/commitlint-config": "0.2.0",
+    "@weahead/eslint-config-tool": "0.2.0",
     "@weahead/prettier-config": "0.2.0",
     "commitizen": "2.7.6",
     "cz-conventional-changelog": "1.1.5",
+    "eslint": "6.5.1",
+    "eslint-plugin-json": "1.4.0",
     "prettier": "1.18.2"
   },
   "peerDependencies": {
