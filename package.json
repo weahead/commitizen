@@ -1,6 +1,6 @@
 {
   "name": "@weahead/commitizen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "We aheads Commitizen wrapper",
   "bin": "index.js",
   "repository": {
@@ -31,7 +31,7 @@
     "prettier": "1.18.2"
   },
   "peerDependencies": {
-    "commitizen": "2.7.6",
-    "cz-conventional-changelog": "1.1.5"
+    "commitizen": ">=4",
+    "cz-conventional-changelog": ">=3"
   }
 }
