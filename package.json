@@ -31,7 +31,7 @@
     "prettier": "1.18.2"
   },
   "peerDependencies": {
-    "commitizen": "2.7.6",
-    "cz-conventional-changelog": "1.1.5"
+    "commitizen": ">=4",
+    "cz-conventional-changelog": ">=3"
   }
 }
