@@ -1,0 +1,25 @@
+{
+  "name": "@weahead/commitizen",
+  "version": "0.1.0",
+  "description": "We aheads Commitizen wrapper",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/commitizen.git"
+  },
+  "keywords": [],
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "bugs": {
+    "url": "https://github.com/weahead/commitizen/issues"
+  },
+  "homepage": "https://github.com/weahead/commitizen#readme",
+  "devDependencies": {
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5"
+  },
+  "peerDependencies": {
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5"
+  }
+}
