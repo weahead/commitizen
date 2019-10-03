@@ -1,6 +1,6 @@
 {
   "name": "@weahead/commitizen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "We aheads Commitizen wrapper",
   "bin": {
     "wa-commitizen": "index.js"
