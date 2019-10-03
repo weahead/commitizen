@@ -1,0 +1,37 @@
+{
+  "name": "@weahead/commitizen",
+  "version": "0.1.0",
+  "description": "We aheads Commitizen wrapper",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/commitizen.git"
+  },
+  "keywords": [],
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "bugs": {
+    "url": "https://github.com/weahead/commitizen/issues"
+  },
+  "homepage": "https://github.com/weahead/commitizen#readme",
+  "devDependencies": {
+    "@commitlint/cli": "8.2.0",
+    "@commitlint/config-conventional": "8.2.0",
+    "@commitlint/prompt-cli": "8.2.0",
+    "@weahead/commitlint-config": "0.2.0",
+    "@weahead/eslint-config-tool": "0.2.0",
+    "@weahead/lint-staged-config": "0.4.0",
+    "@weahead/prettier-config": "0.2.0",
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5",
+    "eslint": "6.5.1",
+    "eslint-plugin-json": "1.4.0",
+    "lint-staged": "9.4.1",
+    "markdownlint-cli": "0.18.0",
+    "prettier": "1.18.2"
+  },
+  "peerDependencies": {
+    "commitizen": "2.7.6",
+    "cz-conventional-changelog": "1.1.5"
+  }
+}
