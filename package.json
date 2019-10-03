@@ -15,6 +15,10 @@
   },
   "homepage": "https://github.com/weahead/commitizen#readme",
   "devDependencies": {
+    "@commitlint/cli": "8.2.0",
+    "@commitlint/config-conventional": "8.2.0",
+    "@commitlint/prompt-cli": "8.2.0",
+    "@weahead/commitlint-config": "0.2.0",
     "commitizen": "2.7.6",
     "cz-conventional-changelog": "1.1.5"
   },
