@@ -2,7 +2,9 @@
   "name": "@weahead/commitizen",
   "version": "0.1.1",
   "description": "We aheads Commitizen wrapper",
-  "bin": "index.js",
+  "bin": {
+    "wa-commitizen": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/weahead/commitizen.git"
